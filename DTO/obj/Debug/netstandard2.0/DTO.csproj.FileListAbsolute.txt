@@ -1,0 +1,7 @@
+F:\Denemeler\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+F:\Denemeler\DTO\bin\Debug\netstandard2.0\DTO.dll
+F:\Denemeler\DTO\bin\Debug\netstandard2.0\DTO.pdb
+F:\Denemeler\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+F:\Denemeler\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+F:\Denemeler\DTO\obj\Debug\netstandard2.0\DTO.dll
+F:\Denemeler\DTO\obj\Debug\netstandard2.0\DTO.pdb

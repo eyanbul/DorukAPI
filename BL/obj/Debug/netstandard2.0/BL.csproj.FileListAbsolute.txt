@@ -1,0 +1,17 @@
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+F:\Denemeler\BL\bin\Debug\netstandard2.0\BL.deps.json
+F:\Denemeler\BL\bin\Debug\netstandard2.0\BL.dll
+F:\Denemeler\BL\bin\Debug\netstandard2.0\BL.pdb
+F:\Denemeler\BL\bin\Debug\netstandard2.0\Core.dll
+F:\Denemeler\BL\bin\Debug\netstandard2.0\DAL.dll
+F:\Denemeler\BL\bin\Debug\netstandard2.0\DTO.dll
+F:\Denemeler\BL\bin\Debug\netstandard2.0\Entities.dll
+F:\Denemeler\BL\bin\Debug\netstandard2.0\DAL.pdb
+F:\Denemeler\BL\bin\Debug\netstandard2.0\DTO.pdb
+F:\Denemeler\BL\bin\Debug\netstandard2.0\Entities.pdb
+F:\Denemeler\BL\bin\Debug\netstandard2.0\Core.pdb
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.dll
+F:\Denemeler\BL\obj\Debug\netstandard2.0\BL.pdb
